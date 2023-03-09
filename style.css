@@ -1,0 +1,30 @@
+* {
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+
+h1 {
+  color: blue;
+}
+
+body {
+  background-color: cyan;
+}
+
+button {
+  width: 250px;
+  height: 100px;
+  background: lime;
+  font-size: 32px;
+  border-radius: 20px;
+}
+
+button:hover {
+  background: limegreen;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.rewards {
+  margin-bottom: 50px;
+  margin-top: 10px;
+}
